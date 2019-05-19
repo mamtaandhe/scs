@@ -12,5 +12,6 @@ public class DemoApplication {
 		System.out.println("added newly");
 
 	}
-
-}
+	public void addData(){
+		System.out.println("added addData method");	
+	}
